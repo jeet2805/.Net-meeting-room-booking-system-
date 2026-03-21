@@ -1,4 +1,4 @@
-# .Net-meeting-rrom-booking-system-
+# .Net-meeting-room-booking-system-
 it is .net project using 2026 vs code for both frontend backend consisting of various features in readme file 
 # Meeting Room Booking System
 
